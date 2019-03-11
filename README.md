@@ -2,9 +2,9 @@
 
 Playing snake game using your hand gestures.
 
-[Game Video](https://github.com/TheAILearner/Snake-Game-Using-Tensorflow-Object-Detection-API/blob/master/outputs/Video%20Project%202019-03-04.WMV)
+[Game Video](https://www.youtube.com/watch?v=6FGVFYaz_S0)
 
-[Game Image]('outputs/left snake.jpg')
+[Game Image](https://github.com/TheAILearner/Snake-Game-Using-Tensorflow-Object-Detection-API/blob/master/outputs/left%20snake.JPG)
 
-[Game Image](outputs/up snake.jpg)
+[Game Image](https://github.com/TheAILearner/Snake-Game-Using-Tensorflow-Object-Detection-API/blob/master/outputs/up%20snake.JPG)
 
